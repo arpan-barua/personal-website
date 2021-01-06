@@ -1,0 +1,142 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+section{
+    height:450px;
+}
+
+.navbar ul{
+    width:90%;
+    list-style-type: none;
+    text-align: right;   
+}
+
+.navbar a {
+    display: inline; 
+    text-decoration: none;
+    font-weight: bold;
+    padding:20px;
+}
+
+h1{
+    font-size:40px;
+    line-height: 15px;
+    
+}
+
+h2{
+    font-size:40px;
+    line-height: 15px;
+    margin-left:476px;
+    margin-top:46px;
+    padding-top:80px;
+    
+}
+
+h4{
+    color: gray;
+}
+
+p{
+    color:dimgray;
+}
+
+.name-color{
+    color:coral;
+}
+
+.half-width{
+    width: 40%;
+    margin-left:5%; 
+    float: left;
+}
+
+.btn-link{
+    border:1px solid coral;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color:white;
+    background-color: coral;
+    text-decoration: none;
+}
+
+.half-width img{
+    width: 80%;
+  
+    
+}
+
+.project-bg{
+    background-color: whitesmoke;
+    text-align: center;
+    padding-top:50px; 
+}
+
+.review-bg{
+    background-color: whitesmoke;
+    margin-top: 60px;
+}
+
+.project-content{
+    border:1px solid white;
+    border-radius: 10px;
+    width: 26%;
+    height:auto;
+    
+    float: left;
+    margin:20px -40px 0px 86px;
+    background-color: white;
+}
+
+.project-content img{
+    width:100%;
+}
+
+
+.work-inquiry img{
+    width:60%;
+    margin: 150px 0px 0px 250px;
+
+}
+
+.inquiry{
+
+    position: relative;
+
+}
+
+.text-block{
+        position: absolute;
+        color: white;
+        bottom: 58px;
+        right: 660px;
+        
+      }
+
+#btn-chat {
+    position: absolute;
+    bottom: 22px;
+    right: -347px;
+}
+
+#btn-submit{
+    margin-left: 275px;
+    background-color: coral;
+    color: white;
+    padding:10px 20px;
+    font-size: medium;
+    border-radius: 10px;
+
+}
+
+.footer{
+    text-align: center;
+    margin-top: 75px;
+}
+
+.review-form{
+    margin:49px 313px;
+}
+
+
